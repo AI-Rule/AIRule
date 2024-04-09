@@ -1,2 +1,2 @@
 # AIRule
-Ai Rule
+AI Rule
